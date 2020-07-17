@@ -115,9 +115,6 @@ const trims = {
     equipment: {
       number: 95,
       variants: [
-        '1A',
-        '2A',
-        '3A',
         '4A'
       ]
     }
